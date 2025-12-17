@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Головна</title>
+</head>
+<body>
+
+<h2>Введіть імʼя користувача</h2>
+
+<form method="post" action="handler.php">
+    <input type="text" name="username" required>
+    <button type="submit">OK</button>
+</form>
+
+</body>
+</html>
